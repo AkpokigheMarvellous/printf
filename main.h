@@ -9,7 +9,7 @@
 /**
  * struct s_format - Structure
  * @args: pointer arguments
- * @func: pointer function
+ * @func: pointer to function
  */
 
 typedef struct s_format
